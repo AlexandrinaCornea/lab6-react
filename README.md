@@ -13,4 +13,4 @@ Implementați un joc de tip **Hangman** (Spânzurătoarea) utilizând React.
    - Mesaj de victorie sau înfrângere
    - Posibilitatea de a reporni jocul
 
-## Un exmeplu de implementare a jocului îl găsiți [aici](https://react-at2.vercel.app/)
+## Un exemplu de implementare a jocului îl găsiți [aici](https://react-at2.vercel.app/)
