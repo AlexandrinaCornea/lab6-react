@@ -1,0 +1,10 @@
+.lettersContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 2rem;
+  gap: 1rem;
+  width: 50%;
+  margin: 0 auto;
+}

@@ -1,0 +1,18 @@
+.letter {
+  all: unset;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #333;
+  margin: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.5rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.disabled {
+  background-color: #f0f0f0;
+  color: #999;
+  cursor: not-allowed;
+}

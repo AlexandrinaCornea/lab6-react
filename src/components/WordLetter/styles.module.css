@@ -1,0 +1,17 @@
+.wordLetter {
+  width: 2rem;
+  height: 2rem;
+  font-size: 2rem;
+}
+
+.underline {
+  border-bottom: 2px solid black;
+}
+
+.guessed {
+  color: green;
+}
+
+.notGuessed {
+  color: red;
+}
